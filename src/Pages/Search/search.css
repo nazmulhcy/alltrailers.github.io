@@ -1,0 +1,13 @@
+.search {
+  display: flex;
+  margin: 15px 0;
+  text-decoration-color: aliceblue;
+}
+.CTabs {
+  display: flex;
+  align-items: center;
+}
+.searchBox {
+  background-color: wheat;
+  border-radius: 10px;
+}
